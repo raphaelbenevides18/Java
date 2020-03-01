@@ -1,0 +1,19 @@
+<h1 class="p-3 bg-info text-center text-white">Livroteca Full-Stack</h1>
+
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-6">
+        <ul class="list-group" *ngFor='let a of livros'>
+        <a class="list-group-item list-group-item-action">
+        <img [src]='a.imagem' style="width: 100px;"
+        class="img-thumbnail mr-3 shadow">
+        Titulo: <b>{{a.titulo}}</b> -
+        Autor {{a.autor}}
+        Categoria: {{a.categoria}} -
+        Descrição: {{a.descricao}}
+        </a>
+        </ul>
+        </div>
+    </div>
+</div>

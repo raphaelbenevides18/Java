@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/home/raphael/Documentos/ProjetoFinal/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3242464407.index
+1105467187.index
+1030475756.index
+2779805333.index
+931124491.index
+750495237.index

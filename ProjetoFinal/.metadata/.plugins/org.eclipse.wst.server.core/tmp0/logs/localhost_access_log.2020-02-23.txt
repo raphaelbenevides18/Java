@@ -1,0 +1,8 @@
+127.0.0.1 - - [23/Feb/2020:15:55:13 -0300] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [23/Feb/2020:15:55:14 -0300] "GET /livrotecaREST/ HTTP/1.1" 404 1022
+0:0:0:0:0:0:0:1 - - [23/Feb/2020:15:55:14 -0300] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [23/Feb/2020:15:55:22 -0300] "GET /livrotecaREST/rs/livro HTTP/1.1" 200 588
+0:0:0:0:0:0:0:1 - - [23/Feb/2020:16:32:01 -0300] "GET /livrotecaREST/rs/livro HTTP/1.1" 200 653
+0:0:0:0:0:0:0:1 - - [23/Feb/2020:16:36:27 -0300] "GET /livrotecaREST/rs/livro HTTP/1.1" 200 653
+0:0:0:0:0:0:0:1 - - [23/Feb/2020:16:38:44 -0300] "GET /livrotecaREST/rs/livro HTTP/1.1" 200 653
+0:0:0:0:0:0:0:1 - - [23/Feb/2020:16:38:59 -0300] "GET /livrotecaREST/rs/livro HTTP/1.1" 200 653
